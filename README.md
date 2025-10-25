@@ -94,6 +94,8 @@ This tool is designed for **medical professionals, researchers, and students** w
 ```
 pip install -r requirements.txt
 ```
+`If you incounter an issue, you may need to install Visual C++ Redistributable for Visual Studio 2015-2022 first.`
+
 # Example Workflow
 **1) Load Medical Data**        
 Click **"Open NIfTI File"** or **"Open DICOM Folder"** to import your medical imaging data.
